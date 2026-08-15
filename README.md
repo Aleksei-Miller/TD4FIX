@@ -69,7 +69,7 @@ For quick access to the desired renderer, use the included BAT scripts in the ga
 
 ## ✨ Changes (v1.0)
 
-### 🛠️ Fixes
+### Fixes
 
 * **Graphics and Camera:**
   * Fixed the game's aspect ratio.
@@ -88,7 +88,7 @@ For quick access to the desired renderer, use the included BAT scripts in the ga
   * Added joystick support to the pause menu.
   * `Options -> Configure joystick` now automatically selects the currently active device.
 
-### 🚀 New Features
+### New Features
 
 * Full remapping of keyboard keys, controller buttons, axes, and POV controls.
 * Adjustable steering sensitivity (`sensitivity`) and deadzone (`deadzone`).
@@ -182,7 +182,7 @@ tcc.exe src/main.c src/settings.c src/platform.c src/input.c
 
 ---
 
-## 🛠️ Technologies and Third-Party Components
+## Technologies and Third-Party Components
 
 ### 🔩 Build Tools, Libraries and Third-Party Software
 
