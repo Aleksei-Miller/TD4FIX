@@ -172,7 +172,7 @@ Author:
 Dege
 
 Official website:
-https://dege.freeweb.hu/dgVoodoo2/
+https://dege.freeweb.hu/dgVoodoo2
 
 Description:
 dgVoodoo 2 is a Glide and DirectX API wrapper implemented on
@@ -202,7 +202,7 @@ TD4FIX source code and is not relicensed under the GNU GPLv3.
 
 For the complete and current redistribution terms, see:
 
-https://dege.freeweb.hu/dgVoodoo2/ReadmeGeneral/
+https://dege.freeweb.hu/dgVoodoo2/ReadmeGeneral
 
 ===============================================================================
 6. DxWnd
@@ -219,7 +219,7 @@ TD4FIX uses the DxWnd WinMM wrapper (winmm.dll) for compatibility
 and API redirection purposes.
 
 Official project:
-https://sourceforge.net/projects/dxwnd/
+https://sourceforge.net/projects/dxwnd
 
 License / Terms:
 The DxWnd WinMM wrapper is third-party software and remains subject
@@ -235,11 +235,11 @@ not relicensed under the TD4FIX GPLv3 license.
 For the complete DxWnd source, license information and project
 documentation, see:
 
-https://sourceforge.net/projects/dxwnd/
+https://sourceforge.net/projects/dxwnd
 
 ===============================================================================
 7. General Third-Party Notice
-=============================
+===============================================================================
 
 All third-party software listed above remains the property of its
 respective authors and copyright holders.
