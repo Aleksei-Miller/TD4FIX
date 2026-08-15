@@ -210,7 +210,7 @@ tcc.exe src/main.c src/settings.c src/platform.c src/input.c
 
 ### 🤖 AI and Development
 
-- **OpenCode (DeepSeek)** — AI-assisted development.
+- [OpenCode](https://opencode.ai) — AI-assisted development.
 
 ---
 
