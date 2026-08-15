@@ -1,0 +1,271 @@
+TD4FIX — THIRD-PARTY SOFTWARE LICENSES AND NOTICES
+
+TD4FIX includes and/or uses third-party software components.
+
+Unless otherwise stated, the TD4FIX source code is licensed under the
+GNU General Public License v3.0. The third-party components listed below
+are NOT relicensed under the TD4FIX license and remain subject to their
+respective licenses and terms.
+
+This file contains the applicable license texts and notices for
+third-party components distributed with TD4FIX.
+
+===============================================================================
+1. MinHook
+===============================================================================
+
+Project:
+MinHook — The Minimalistic x86/x64 API Hooking Library for Windows
+
+Source:
+https://github.com/TsudaKageyu/minhook
+
+License:
+BSD 2-Clause License
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are
+met:
+
+1. Redistributions of source code must retain the above copyright
+   notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright
+   notice, this list of conditions and the following disclaimer in the
+   documentation and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDER "AS IS" AND ANY
+EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR
+CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+===============================================================================
+2. Ultimate ASI Loader
+===============================================================================
+
+Project:
+Ultimate ASI Loader
+
+Source:
+https://github.com/ThirteenAG/Ultimate-ASI-Loader
+
+License:
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+===============================================================================
+3. libogg
+===============================================================================
+
+Project:
+Ogg / libogg
+
+Source:
+https://github.com/xiph/ogg
+
+License:
+BSD 3-Clause License
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+
+1. Redistributions of source code must retain the above copyright
+   notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright
+   notice, this list of conditions and the following disclaimer in the
+   documentation and/or other materials provided with the distribution.
+
+3. Neither the name of the Xiph.Org Foundation nor the names of its
+   contributors may be used to endorse or promote products derived
+   from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+===============================================================================
+4. libvorbis / libvorbisfile
+===============================================================================
+
+Project:
+Ogg Vorbis
+
+Components used by TD4FIX:
+* libvorbis
+* libvorbisfile
+
+Source:
+https://github.com/xiph/vorbis
+
+License:
+BSD 3-Clause License
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+
+1. Redistributions of source code must retain the above copyright
+   notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright
+   notice, this list of conditions and the following disclaimer in the
+   documentation and/or other materials provided with the distribution.
+
+3. Neither the name of the Xiph.Org Foundation nor the names of its
+   contributors may be used to endorse or promote products derived
+   from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+===============================================================================
+5. dgVoodoo 2
+===============================================================================
+
+Project:
+dgVoodoo 2
+
+Author:
+Dege
+
+Official website:
+https://dege.freeweb.hu/dgVoodoo2/
+
+Description:
+dgVoodoo 2 is a Glide and DirectX API wrapper implemented on
+Direct3D 11/12.
+
+Redistribution:
+The author permits games and game mods to be freely distributed
+with individual dgVoodoo files included.
+
+TD4FIX is a game mod for Test Drive 4 and includes individual
+dgVoodoo files as part of the mod.
+
+The TD4FIX Launcher is specifically designed for Test Drive 4 and
+TD4FIX. It launches the game's predefined renderer scripts and does
+not provide dgVoodoo as a general-purpose launcher or framework for
+multiple applications.
+
+TD4FIX does not redistribute dgVoodoo as a standalone component.
+
+If dgVoodoo is redistributed as a standalone component, the complete
+original dgVoodoo ZIP package must be provided.
+
+License / Terms:
+dgVoodoo 2 is third-party software and is distributed under the
+redistribution terms specified by its author. It is not part of the
+TD4FIX source code and is not relicensed under the GNU GPLv3.
+
+For the complete and current redistribution terms, see:
+
+https://dege.freeweb.hu/dgVoodoo2/ReadmeGeneral/
+
+===============================================================================
+6. DxWnd
+===============================================================================
+
+Project:
+DxWnd
+
+Component used by TD4FIX:
+winmm.dll
+
+Description:
+TD4FIX uses the DxWnd WinMM wrapper (winmm.dll) for compatibility
+and API redirection purposes.
+
+Official project:
+https://sourceforge.net/projects/dxwnd/
+
+License / Terms:
+The DxWnd WinMM wrapper is third-party software and remains subject
+to the original license and copyright terms applicable to the
+corresponding DxWnd source and binary distribution.
+
+The distributed winmm.dll does not contain a separate license notice.
+TD4FIX therefore does not assign or modify a license for this component.
+
+The DxWnd WinMM wrapper is not part of the TD4FIX source code and is
+not relicensed under the TD4FIX GPLv3 license.
+
+For the complete DxWnd source, license information and project
+documentation, see:
+
+https://sourceforge.net/projects/dxwnd/
+
+===============================================================================
+7. General Third-Party Notice
+=============================
+
+All third-party software listed above remains the property of its
+respective authors and copyright holders.
+
+No third-party component is intended to be relicensed under the
+TD4FIX GPLv3 license unless the applicable third-party license
+explicitly permits such relicensing.
+
+TD4FIX is an independent project and is not affiliated with or endorsed
+by the authors or copyright holders of the third-party software listed
+above.
+
+Third-party software is provided subject to its respective licenses,
+copyright notices, disclaimers and redistribution terms.
+
+===============================================================================
+8. TD4FIX License
+===============================================================================
+
+The original source code developed specifically for TD4FIX is licensed
+under the GNU General Public License version 3.0, unless otherwise
+stated.
+
+A copy of the GNU GPLv3 license is available at:
+
+https://www.gnu.org/licenses/gpl-3.0.html
+
+Third-party software listed in this file is NOT covered by the TD4FIX
+GPLv3 license unless explicitly stated otherwise.
